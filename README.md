@@ -110,6 +110,10 @@ https://www.linkedin.com/in/sanjana-moon-6956863b4
 sanjanamoonliya@gmail.com
 </a>
 
+💼 <strong>Location</strong><br>
+<a>
+Uttara, Dhaka, Bangladesh
+</a>
 </p>
 
 ---
