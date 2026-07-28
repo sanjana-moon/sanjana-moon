@@ -35,13 +35,12 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 - Software Engineering Best Practices
 
 ---
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
 ### 🎨 Frontend
@@ -80,8 +79,6 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-
----
 
 ## 📊 GitHub Statistics
 
