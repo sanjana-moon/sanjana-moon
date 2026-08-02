@@ -99,7 +99,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 💼 <strong>LinkedIn</strong><br>
 <a href="https://www.linkedin.com/in/sanjana-moon">
-https://www.linkedin.com/in/sanjana-moon-6956863b4
+https://www.linkedin.com/in/sanjana-moon
 </a>
 
 📧 <strong>Email</strong><br>
