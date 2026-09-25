@@ -5,36 +5,51 @@
 <h1 align="center">Hi, I'm Sanjana Moon 👋</h1>
 
 <p align="center">
-  <strong>Computer Science & Engineering Student • Aspiring Full-Stack Web Developer • UI/UX Enthusiast</strong>
+  <strong>Full-Stack Developer • Next.js • React • Node.js</strong>
 </p>
 
 <p align="center">
-  <em>"Code with passion. Learn without limits."</em>
+  <em>"Ambitious ideas in, clean working products out."</em>
+</p>
+
+<p align="center">
+  <a href="https://sanjana-portfolio-eight-eta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/sanjana-moon">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjana-moon&style=flat-square&color=000000" alt="Profile views">
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering student** passionate about building modern, responsive, and user-friendly web applications.
+I'm a **Full-Stack Developer** who enjoys turning ideas into modern, responsive web applications.
 
-I enjoy transforming ideas into real-world projects while continuously learning new technologies and sharpening my development skills.
+I like working across the stack — from building the backend logic behind the scenes to creating clean and user-friendly interfaces.
 
-🎯 **Goal:** Become a skilled **Software Engineer** and **Full-Stack Developer**, building impactful digital experiences through clean, efficient, and scalable code.
+🎯 **My goal:** Keep growing as a Software Engineer, build real-world products, and write code that is simple, maintainable, and useful.
 
-Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discovering new ideas and technologies every day.
+Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discovering new things.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React & Next.js
-- Backend Development
-- Authentication & Authorization
-- Data Structures & Algorithms
-- Software Engineering Best Practices
+* Advanced React & Next.js
+* TypeScript
+* Backend Development
+* PostgreSQL & Prisma
+* Data Structures & Algorithms
+* Software Engineering Best Practices
 
 ---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages
@@ -65,7 +80,14 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🔐 Authentication & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
 </p>
 
 ### ☁️ Deployment
@@ -79,6 +101,8 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -97,32 +121,34 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 <p align="left">
 
-💼 <strong>LinkedIn</strong><br>
-<a href="https://www.linkedin.com/in/sanjana-moon">
-https://www.linkedin.com/in/sanjana-moon
-</a>
+🌐 <strong>Portfolio</strong><br> <a href="https://sanjana-portfolio-eight-eta.vercel.app">
+sanjana-portfolio-eight-eta.vercel.app </a>
 
-📧 <strong>Email</strong><br>
-<a href="mailto:sanjanamoonliya@gmail.com">
-sanjanamoonliya@gmail.com
-</a>
+<br>
 
-💼 <strong>Location</strong><br>
-<a>
+💼 <strong>LinkedIn</strong><br> <a href="https://www.linkedin.com/in/sanjana-moon">
+linkedin.com/in/sanjana-moon </a>
+
+<br>
+
+📧 <strong>Email</strong><br> <a href="mailto:sanjanamoonliya@gmail.com">
+[sanjanamoonliya@gmail.com](mailto:sanjanamoonliya@gmail.com) </a>
+
+<br>
+
+📍 <strong>Location</strong><br>
 Uttara, Dhaka, Bangladesh
-</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting!
+### ✨ Thanks for stopping by!
 
-*"Every great developer was once a beginner who never stopped learning."*
+If you like my work, feel free to explore my repositories and connect with me.
 
-If you like my work, feel free to explore my repositories or connect with me.
-
-⭐ Have a wonderful day!
+⭐ Keep building. Keep learning.
 
 </div>
