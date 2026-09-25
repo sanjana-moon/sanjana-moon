@@ -50,57 +50,58 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
-### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### 🎭 UI Libraries
+<h3 align="center">🎭 UI Libraries</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+<h3 align="center">🗄️ Database</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### 🔐 Authentication & APIs
+<h3 align="center">🔐 Authentication & APIs</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
 </p>
 
-### ☁️ Deployment
+<h3 align="center">☁️ Deployment</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=netlify,vercel" />
 </p>
 
-### 🛠️ Tools
+<h3 align="center">🛠️ Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
 
 ---
 
