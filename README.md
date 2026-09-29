@@ -50,70 +50,88 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2>🚀 Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3>💻 Languages</h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
-<h3 align="center">🎨 Frontend</h3>
+---
 
-<p align="center">
+<h3>🎨 Frontend</h3>
+
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-<h3 align="center">🎭 UI Libraries</h3>
+---
 
-<p align="center">
+<h3>🎭 UI Libraries</h3>
+
+<p>
   <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
+---
 
-<p align="center">
+<h3>⚙️ Backend</h3>
+
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<h3 align="center">🗄️ Database</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<h3>🗄️ Database & ORM</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
 </p>
-
-<h3 align="center">🔐 Authentication & APIs</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-</p>
-
-<h3 align="center">☁️ Deployment</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
-</p>
-
-<h3 align="center">🛠️ Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
 
 ---
 
-## 📊 GitHub Statistics
+<h3>🔐 Authentication & APIs</h3>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjana-moon&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-moon&layout=compact&theme=transparent&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=sanjana-moon&theme=transparent&hide_border=true" />
+---
+
+<h3>🤖 AI & Payments</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+---
+
+<h3>🔄 Data Fetching</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+---
+
+<h3>☁️ Deployment</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+</p>
+
+---
+
+<h3>🛠️ Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
