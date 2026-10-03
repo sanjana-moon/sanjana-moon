@@ -44,7 +44,6 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 * Advanced React & Next.js
 * TypeScript
 * Backend Development
-* PostgreSQL & Prisma
 * Data Structures & Algorithms
 * Software Engineering Best Practices
 
@@ -88,7 +87,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🗄️ Database & ORM</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ---
