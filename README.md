@@ -67,12 +67,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ---
 
-<h3>🎭 UI Libraries</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=googlecloud,stripe" />
 
 ---
 
@@ -105,8 +100,8 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🤖 AI & Payments</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" />
 </p>
 
 ---
@@ -114,7 +109,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🔄 Data Fetching</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" />
 </p>
 
 ---
