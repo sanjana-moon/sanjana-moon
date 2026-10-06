@@ -70,7 +70,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🎭 UI Libraries</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
