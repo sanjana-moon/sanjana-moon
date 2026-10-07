@@ -90,8 +90,9 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🔐 Authentication & APIs</h3>
 
 <p>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="48" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" width="48" height="48" alt="JWT" />
   <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" width="48" height="48" alt="Better Auth" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="REST API" />
 </p>
 
 ---
