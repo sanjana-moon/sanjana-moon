@@ -90,9 +90,8 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h3>🔐 Authentication & APIs</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="48" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" width="48" height="48" alt="Better Auth" />
 </p>
 
 ---
