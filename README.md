@@ -29,7 +29,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into modern, responsive web applications.
+I'm a **Full-Stack Web Developer** who enjoys turning ideas into modern, responsive web applications.
 
 I like working across the stack — from building the backend logic behind the scenes to creating clean and user-friendly interfaces.
 
@@ -162,6 +162,6 @@ Uttara, Dhaka, Bangladesh
 
 If you like my work, feel free to explore my repositories and connect with me.
 
-⭐ Keep building. Keep learning.
+⭐ Keep building. Keep building.
 
 </div>
