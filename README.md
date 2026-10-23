@@ -67,7 +67,12 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ---
 
-<img src="https://skillicons.dev/icons?i=googlecloud,stripe" />
+<h3>☁️ Cloud & Payments</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="Google Cloud" />
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="42" alt="Stripe" />
+</p>
 
 ---
 
