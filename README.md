@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/NnxQdmV6/banner.png" alt="Sanjana Moon Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Sanjana Moon 👋</h1>
+<h1 align="center">Hey there, I'm Sanjana Moon 👋</h1>
 
 <p align="center">
   <strong>Full-Stack Developer • Next.js • React • Node.js • Express.js</strong>
