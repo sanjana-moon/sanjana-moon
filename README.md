@@ -49,89 +49,43 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ---
 
-<h2>🚀 Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h3>💻 Languages</h3>
+<table width="100%" align="center">
+<tr valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
-</p>
-
----
-
+<td width="33%" align="center">
 <h3>🎨 Frontend</h3>
-
+<p><img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Tech" /></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <p><img src="https://skillicons.dev/icons?i=ts,react,nextjs" alt="Frontend Tech" /></p>
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" width="32" height="32" alt="React Query" title="React Query" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
+</td>
 
----
-
-<h3>☁️ Cloud & Payments</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="Google Cloud" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" height="42" alt="Stripe" />
-</p>
-
----
-
+<td width="33%" align="center">
 <h3>⚙️ Backend</h3>
-
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Tech" /></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" width="28" height="28" alt="JWT" title="JWT" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/betterauth/FFFFFF" width="28" height="28" alt="Better Auth" title="Better Auth" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/stripe/635BFF" width="28" height="28" alt="Stripe" title="Stripe" />
 </p>
+</td>
 
----
+<td width="33%" align="center">
+<h3>🛠️ Tools & Workflow</h3>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" /></p>
+<p><img src="https://skillicons.dev/icons?i=figma,postman,vercel" alt="Design & Deployment" /></p>
+<p><img src="https://skillicons.dev/icons?i=netlify,gcp" alt="Cloud" /></p>
+</td>
 
-<h3>🗄️ Database & ORM</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
----
-
-<h3>🔐 Authentication & APIs</h3>
-
-<p>
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" width="48" height="48" alt="JWT" />
-  <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" width="48" height="48" alt="Better Auth" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="REST API" />
-</p>
-
----
-
-<h3>🤖 AI & Payments</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=googlecloud" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" />
-</p>
-
----
-
-<h3>🔄 Data Fetching</h3>
-
-<p>
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" />
-</p>
-
----
-
-<h3>☁️ Deployment</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
-</p>
-
----
-
-<h3>🛠️ Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+</tr>
+</table>
 
 ---
 
@@ -150,7 +104,7 @@ linkedin.com/in/sanjana-moon </a>
 <br>
 
 📧 <strong>Email</strong><br> <a href="mailto:sanjanamoonliya@gmail.com">
-[sanjanamoonliya@gmail.com](mailto:sanjanamoonliya@gmail.com) </a>
+sanjanamoonliya@gmail.com </a>
 
 <br>
 
