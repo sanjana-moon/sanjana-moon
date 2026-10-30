@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/NnxQdmV6/banner.png" alt="Sanjana Moon Banner" width="100%">
+  <img src="https://i.ibb.co.com/HpLBtvVG/Github-banner.png" alt="Sanjana Moon Banner" width="100%">
 </p>
 
 <h1 align="center">Hey there, I'm Sanjana Moon 👋</h1>
