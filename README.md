@@ -121,6 +121,6 @@ Uttara, Dhaka, Bangladesh
 
 If you like my work, feel free to explore my repositories and connect with me.
 
-⭐ Keep building. Keep building.
+⭐ Keep Learning. Keep building.
 
 </div>
