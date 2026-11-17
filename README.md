@@ -41,8 +41,6 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ## 🌱 Currently Learning
 
-* Advanced React & Next.js
-* TypeScript
 * Backend Development
 * Data Structures & Algorithms
 * Software Engineering Best Practices
