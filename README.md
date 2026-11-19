@@ -42,6 +42,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 ## 🌱 Currently Learning
 
 - Backend Development
+- Problem Solving
 - Data Structures & Algorithms
 - Software Engineering Best Practices
 
@@ -64,6 +65,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 &nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
+<img src="https://placehold.co/300x1/transparent/transparent" width="300" height="1" alt="" />
 </td>
 
 <td width="33%" align="center">
@@ -76,12 +78,14 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 &nbsp;
 <img src="https://cdn.simpleicons.org/stripe/635BFF" width="28" height="28" alt="Stripe" title="Stripe" />
 </p>
+<img src="https://placehold.co/300x1/transparent/transparent" width="300" height="1" alt="" />
 </td>
 
 <td width="33%" align="center">
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" /></p>
 <p><img src="https://skillicons.dev/icons?i=figma,postman,vercel" alt="Design & Deployment" /></p>
 <p><img src="https://skillicons.dev/icons?i=netlify,gcp" alt="Cloud" /></p>
+<img src="https://placehold.co/300x1/transparent/transparent" width="300" height="1" alt="" />
 </td>
 </tr>
 </table>
@@ -100,7 +104,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini API</code>
 </p>
 <p>
-<a href="YOUR_SKILLFORGE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_SKILLFORGE_REPO_LINK">📂 Code</a>
+<a href="https://skillforge-ai-eta.vercel.app">🌐 Live</a> &nbsp;•&nbsp; <a href="https://github.com/sanjana-moon/SkillForge">📂 Code</a>
 </p>
 </td>
 
@@ -111,7 +115,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <code>Next.js</code> <code>TypeScript</code> <code>Express.js</code> <code>MongoDB</code> <code>Stripe</code>
 </p>
 <p>
-<a href="YOUR_DREAMVENUE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_DREAMVENUE_REPO_LINK">📂 Code</a>
+<a href="https://dreamvenue.vercel.app">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_DREAMVENUE_REPO_LINK">📂 Code</a>
 </p>
 </td>
 
@@ -122,7 +126,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Better Auth</code> <code>Stripe</code>
 </p>
 <p>
-<a href="YOUR_BOOKSPHERE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_BOOKSPHERE_REPO_LINK">📂 Code</a>
+<a href="https://booksphere-ashy.vercel.app">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_BOOKSPHERE_REPO_LINK">📂 Code</a>
 </p>
 </td>
 
@@ -134,7 +138,6 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjana-moon&show_icons=true&hide_rank=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="165" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=sanjana-moon&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&border=30363d" height="165" alt="GitHub Streak" />
 </p>
 
