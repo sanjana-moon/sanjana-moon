@@ -76,7 +76,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 </td>
 
 <td width="33%" align="center">
-<h3>🛠️ Tools & Workflow</h3>
+<h3>🛠️ Tools</h3>
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" /></p>
 <p><img src="https://skillicons.dev/icons?i=figma,postman,vercel" alt="Design & Deployment" /></p>
 <p><img src="https://skillicons.dev/icons?i=netlify,gcp" alt="Cloud" /></p>
