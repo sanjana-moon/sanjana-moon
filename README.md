@@ -50,10 +50,13 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <h2 align="center">🚀 Tech Stack</h2>
 
 <table width="100%" align="center">
+<tr>
+<th width="33%" align="center"><h3>🎨 Frontend</h3></th>
+<th width="33%" align="center"><h3>⚙️ Backend & Core</h3></th>
+<th width="33%" align="center"><h3>🛠️ Tools & Workflow</h3></th>
+</tr>
 <tr valign="top">
-
 <td width="33%" align="center">
-<h3>🎨 Frontend</h3>
 <p><img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Tech" /></p>
 <p><img src="https://skillicons.dev/icons?i=ts,react,nextjs" alt="Frontend Tech" /></p>
 <p>
@@ -64,8 +67,8 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 </td>
 
 <td width="33%" align="center">
-<h3>⚙️ Backend</h3>
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Tech" /></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp" alt="Core Languages" /></p>
 <p>
 <img src="https://cdn.simpleicons.org/jsonwebtokens/F7DF1E" width="28" height="28" alt="JWT" title="JWT" />
 &nbsp;
@@ -76,12 +79,10 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 </td>
 
 <td width="33%" align="center">
-<h3>🛠️ Tools</h3>
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev Tools" /></p>
 <p><img src="https://skillicons.dev/icons?i=figma,postman,vercel" alt="Design & Deployment" /></p>
 <p><img src="https://skillicons.dev/icons?i=netlify,gcp" alt="Cloud" /></p>
 </td>
-
 </tr>
 </table>
 
