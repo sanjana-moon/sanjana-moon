@@ -41,9 +41,9 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 ## 🌱 Currently Learning
 
-* Backend Development
-* Data Structures & Algorithms
-* Software Engineering Best Practices
+- Backend Development
+- Data Structures & Algorithms
+- Software Engineering Best Practices
 
 ---
 
@@ -55,8 +55,8 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 <td width="33%" align="center">
 <h3>🎨 Frontend</h3>
 <p><img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Tech" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts,react,nextjs" alt="Frontend Tech" /></p>
 <p>
-  <p><img src="https://skillicons.dev/icons?i=ts,react,nextjs" alt="Frontend Tech" /></p>
 <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="32" height="32" alt="React Query" title="React Query" />
 &nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
@@ -84,6 +84,58 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 </tr>
 </table>
+
+---
+
+<h2 align="center">💻 Featured Projects</h2>
+
+<table width="100%" align="center">
+<tr valign="top">
+
+<td width="33%" align="center">
+<h3>🧠 SkillForge AI</h3>
+<p>An AI-powered learning platform featuring an interactive AI learning mentor and role-based dashboards.</p>
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini API</code>
+</p>
+<p>
+<a href="YOUR_SKILLFORGE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_SKILLFORGE_REPO_LINK">📂 Code</a>
+</p>
+</td>
+
+<td width="33%" align="center">
+<h3>🏛️ DreamVenue</h3>
+<p>A full-stack venue booking platform with analytics dashboards, secure authentication, and online payments.</p>
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Express.js</code> <code>MongoDB</code> <code>Stripe</code>
+</p>
+<p>
+<a href="YOUR_DREAMVENUE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_DREAMVENUE_REPO_LINK">📂 Code</a>
+</p>
+</td>
+
+<td width="33%" align="center">
+<h3>📚 BookSphere</h3>
+<p>An online book delivery management system with seamless checkout, order tracking, and role management.</p>
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Better Auth</code> <code>Stripe</code>
+</p>
+<p>
+<a href="YOUR_BOOKSPHERE_LIVE_LINK">🌐 Live</a> &nbsp;•&nbsp; <a href="YOUR_BOOKSPHERE_REPO_LINK">📂 Code</a>
+</p>
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana-moon&show_icons=true&hide_rank=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sanjana-moon&theme=transparent&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&border=30363d" height="165" alt="GitHub Streak" />
+</p>
 
 ---
 
