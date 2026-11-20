@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Sanjana Moon 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Next.js • React • Node.js • Express.js</strong>
+  <strong>Full-Stack Developer • Next.js • TypeScript • React • Node.js • Express.js</strong>
 </p>
 
 <p align="center">
