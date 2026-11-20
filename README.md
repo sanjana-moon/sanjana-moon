@@ -43,6 +43,7 @@ Beyond coding, I enjoy **photography**, exploring **UI/UX design**, and discover
 
 - Backend Development
 - Problem Solving
+- Redux, NextAuth.js & RTK Query
 - Data Structures & Algorithms
 - Software Engineering Best Practices
 
